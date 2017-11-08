@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: templayout.html
 title:  "Welcome to Jekyll!"
 ---
 
